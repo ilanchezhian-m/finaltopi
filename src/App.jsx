@@ -23,7 +23,7 @@
       <a href="tel:+917305748889">+917305748889</a>
       </div>
       <div >
-        <a href='https://wa.me/${+91730574889}'>
+        <a href='https://wa.me/${+917305748889}'>
         <img src={whatsapp} alt='whatsapp icon'/> 
          </a>
       </div>
