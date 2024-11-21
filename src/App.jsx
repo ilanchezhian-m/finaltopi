@@ -20,7 +20,7 @@
       <h2 className='ml-2 font-bold' >PARTY ORDER AVAILABLE</h2>
       <div className='flex'>
       <h2 className="font-bold mx-2">Contact :</h2>
-      <a href="tel:+91 7305748889">+917305748889</a>
+      <a href="tel:+917305748889">+917305748889</a>
       </div>
       <div >
         <a href='https://wa.me/${730574889}'>
